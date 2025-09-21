@@ -1,1 +1,4 @@
 ghjkkg
+devicePixelRatio
+devicePixelRatio
+devicePixelRatio
